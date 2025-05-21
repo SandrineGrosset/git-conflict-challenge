@@ -1,2 +1,2 @@
 # git-conflict-challenge
-modivication via vscode
+Modification via GitHub
